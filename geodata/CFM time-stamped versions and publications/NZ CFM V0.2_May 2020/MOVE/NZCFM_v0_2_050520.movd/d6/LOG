@@ -1,0 +1,76 @@
+2020/05/05-15:54:18.578 67d0 Delete type=3 #1
+2020/05/05-15:54:18.809 67f8 Level-0 table #5: started
+2020/05/05-15:54:18.845 670c Current memtable full; waiting...
+2020/05/05-15:54:18.902 67f8 Level-0 table #5: 4216070 bytes OK
+2020/05/05-15:54:18.909 67f8 Delete type=0 #3
+2020/05/05-15:54:18.973 67f8 Level-0 table #7: started
+2020/05/05-15:54:19.019 6710 Current memtable full; waiting...
+2020/05/05-15:54:19.098 67f8 Level-0 table #7: 4197041 bytes OK
+2020/05/05-15:54:19.139 67f8 Delete type=0 #4
+2020/05/05-15:54:19.198 67f8 Level-0 table #9: started
+2020/05/05-15:54:19.231 5e60 Current memtable full; waiting...
+2020/05/05-15:54:19.297 67f8 Level-0 table #9: 4205421 bytes OK
+2020/05/05-15:54:19.304 67f8 Delete type=0 #6
+2020/05/05-15:54:19.366 67f8 Level-0 table #11: started
+2020/05/05-15:54:19.530 67f8 Level-0 table #11: 4210464 bytes OK
+2020/05/05-15:54:19.537 67f8 Delete type=0 #8
+2020/05/05-15:56:35.780 67f8 Level-0 table #13: started
+2020/05/05-15:56:35.978 67f8 Level-0 table #13: 4162029 bytes OK
+2020/05/05-15:56:35.984 67f8 Delete type=0 #10
+2020/05/05-16:03:42.858 67f8 Level-0 table #15: started
+2020/05/05-16:03:42.934 67f8 Level-0 table #15: 3766115 bytes OK
+2020/05/05-16:03:42.941 67f8 Delete type=0 #12
+2020/05/05-16:03:42.951 67f8 Compacting 4@0 + 1@1 files
+2020/05/05-16:03:43.058 67f8 Generated table #16@0: 1212 keys, 2178726 bytes
+2020/05/05-16:03:43.069 67f8 Level-0 table #19: started
+2020/05/05-16:03:43.154 67f8 Level-0 table #19: 3633376 bytes OK
+2020/05/05-16:03:43.190 67f8 Delete type=0 #14
+2020/05/05-16:03:43.262 67f8 Generated table #18@0: 86 keys, 2131352 bytes
+2020/05/05-16:03:43.332 67f8 Generated table #20@0: 150 keys, 2117521 bytes
+2020/05/05-16:03:43.410 67f8 Generated table #21@0: 203 keys, 2109230 bytes
+2020/05/05-16:03:43.531 67f8 Generated table #22@0: 259 keys, 2157601 bytes
+2020/05/05-16:03:43.656 67f8 Generated table #23@0: 64 keys, 2102922 bytes
+2020/05/05-16:03:43.751 67f8 Generated table #24@0: 167 keys, 2113042 bytes
+2020/05/05-16:03:43.942 67f8 Generated table #25@0: 269 keys, 2109185 bytes
+2020/05/05-16:03:44.002 67f8 Generated table #26@0: 4610 keys, 2116486 bytes
+2020/05/05-16:03:44.057 67f8 Generated table #27@0: 3277 keys, 1225647 bytes
+2020/05/05-16:03:44.057 67f8 Compacted 4@0 + 1@1 files => 20361712 bytes
+2020/05/05-16:03:44.059 67f8 compacted to: files[ 1 10 1 0 0 0 0 ]
+2020/05/05-16:03:44.065 67f8 Delete type=2 #7
+2020/05/05-16:03:44.089 67f8 Delete type=2 #9
+2020/05/05-16:03:44.112 67f8 Delete type=2 #11
+2020/05/05-16:03:44.129 67f8 Delete type=2 #13
+2020/05/05-16:03:44.151 67f8 Delete type=2 #15
+2020/05/05-16:03:44.167 67f8 Expanding@1 1+1 (2178726+4216070 bytes) to 10+1 (20361712+4216070 bytes)
+2020/05/05-16:03:44.168 67f8 Compacting 10@1 + 1@2 files
+2020/05/05-16:03:44.285 67f8 Generated table #28@1: 1175 keys, 2134749 bytes
+2020/05/05-16:03:44.341 67f8 Generated table #29@1: 124 keys, 2112541 bytes
+2020/05/05-16:03:44.503 67f8 Generated table #30@1: 112 keys, 2134868 bytes
+2020/05/05-16:03:44.572 67f8 Generated table #31@1: 96 keys, 2111561 bytes
+2020/05/05-16:03:44.636 67f8 Generated table #32@1: 151 keys, 2105844 bytes
+2020/05/05-16:03:44.699 67f8 Generated table #33@1: 206 keys, 2107088 bytes
+2020/05/05-16:03:44.775 67f8 Generated table #34@1: 248 keys, 2127200 bytes
+2020/05/05-16:03:44.840 67f8 Generated table #35@1: 79 keys, 2104636 bytes
+2020/05/05-16:03:44.983 67f8 Generated table #36@1: 158 keys, 2204423 bytes
+2020/05/05-16:03:45.052 67f8 Generated table #37@1: 279 keys, 2120286 bytes
+2020/05/05-16:03:45.056 67f8 Level-0 table #40: started
+2020/05/05-16:03:45.159 67f8 Level-0 table #40: 2867378 bytes OK
+2020/05/05-16:03:45.172 67f8 Delete type=0 #17
+2020/05/05-16:03:45.264 67f8 Generated table #39@1: 5264 keys, 2117851 bytes
+2020/05/05-16:03:45.358 67f8 Generated table #41@1: 2712 keys, 1058681 bytes
+2020/05/05-16:03:45.359 67f8 Compacted 10@1 + 1@2 files => 24439728 bytes
+2020/05/05-16:03:45.361 67f8 compacted to: files[ 2 0 12 0 0 0 0 ]
+2020/05/05-16:03:45.366 67f8 Delete type=2 #5
+2020/05/05-16:03:45.388 67f8 Delete type=2 #16
+2020/05/05-16:03:45.403 67f8 Delete type=2 #18
+2020/05/05-16:03:45.418 67f8 Delete type=2 #20
+2020/05/05-16:03:45.439 67f8 Delete type=2 #21
+2020/05/05-16:03:45.457 67f8 Delete type=2 #22
+2020/05/05-16:03:45.473 67f8 Delete type=2 #23
+2020/05/05-16:03:45.488 67f8 Delete type=2 #24
+2020/05/05-16:03:45.507 67f8 Delete type=2 #25
+2020/05/05-16:03:45.526 67f8 Delete type=2 #26
+2020/05/05-16:03:45.542 67f8 Delete type=2 #27
+2020/05/05-16:24:16.643 67f8 Level-0 table #43: started
+2020/05/05-16:24:16.743 67f8 Level-0 table #43: 1826254 bytes OK
+2020/05/05-16:24:16.750 67f8 Delete type=0 #38
